@@ -1,0 +1,37 @@
+.image img{width: 100px;height: 100px;margin-top: 20px;margin-left: 20px;}
+.list ul li{list-style: none;margin-top: 80px;color:darkblue;}
+.pic img{height: 800px;width: 80px;}
+.list ul{ display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.list ul a{text-decoration:none ;}
+.header{background-color:whitesmoke;width: 100px;height: 150px;border: 10px;border-color: darkblue;}
+.h{background-color: rgb(227, 242, 252);}
+.h p{color: blue;font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;font-style: italic;}
+.h h4{color: darkblue;font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+.header img{border-radius: 30px;}
+
+.name h1{margin-top: 70px;color:darkblue;font-size:30px;}
+.search input{margin-top: 80px;margin-left: 20px;}
+.image-1 img{width: 80%;height: 70%;border-radius: 10%;}
+.about{margin-top: 50px;margin-bottom: 100px;background-color: whitesmoke;}
+.footer{background-color:whitesmoke;color: darkblue;margin-top: 30px;height: 250px;width: 100px;}
+.footer h4 {margin-top: 100x;}
+.footer h5{color:blue;}
+.footer img{border-radius: 50px;margin-top: 50px;margin-left: 10px;width: 200px;}
+.icon img{width: 50px;height: 50px;margin-top: 20px;}
+.button button{background-color:blue;color: white;margin-top: 20px;border-radius: 50px;}
+.ser{background-color: aqua;height: 100px;width: 100px;}
+.foot2 h4{margin-top: 50px;}
+.foot2 h5 a{text-decoration: none;color: blue;}
+
+
+
+
+p{font-family: Jersey 25;font-size: 20px;}
+.para h4{font-size: 25px;color:darkblue;margin-top: 30px;}
+.para{margin-top: 50px;margin-bottom: 50px;}
+.para button a{color:darkblue;border-color: blue;margin-bottom: 20px;text-decoration: none;border-radius: 50px;}
+.about img{margin-top: 30px;margin-left: 30px;}
+.para img{margin-top: 50px;margin-left: 40px;}

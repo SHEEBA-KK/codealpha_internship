@@ -1,0 +1,192 @@
+.image img{width: 200px;height: 150px;margin-top: 20px;margin-left: 20px;}
+.list ul li{list-style: none;margin-top: 80px;color:blue;}
+.pic img{height: 800px;width: 80px;}
+.list ul{ display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.list ul a{text-decoration:none ;}
+.header{background-color:whitesmoke;width: 200px;height: 180px;}
+.header img{border-radius: 30px;}
+.name h1{margin-top: 70px;color:darkblue;font-size:30px;}
+.search input{margin-top: 80px;margin-left: 20px;}
+.con h3{color: darkblue;text-align: center;margin-top: 30px;margin-bottom: 40px;}
+
+.b h5{margin-bottom: 20px;text-align: center;color: darkblue;}
+.ab{background-color: lightgray;}
+.b img{height: 200px;width:100%;margin-bottom: 20px;}
+.b p{margin-left: 40px;margin-bottom: 30px;color: blue;}
+.b{margin-bottom: 100px;}
+.foot2 h5 a{text-decoration: none;color: blue;}
+
+
+.con h3{color: darkblue;text-align: center;margin-top: 30px;margin-bottom: 40px;}
+.box{margin-top: 100px;margin-bottom: 100px;background-color:rgb(231, 230, 230);margin-right: 20px; ;text-align: center;margin-top: 50px;border-radius: 20px;}
+.box i{height: 50px;width: 100px;}
+.box p{color: blue;}
+.box h4{color: darkblue;}
+
+
+
+ .a{margin-bottom: 50px;}
+
+ .a img{ width: 100%;height: 100%;}
+
+ body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+}
+.a {
+    max-width: 400px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+input[type="text"], textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+input[type="submit"] {
+    background-color: #3498db;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+input[type="submit"]:hover {
+    background-color: #2980b9;
+}
+
+
+.a h4{color: darkblue;}
+.a button a{color:darkblue;border-color: blue;margin-bottom: 20px;text-decoration: none;border-radius: 50px;}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+#education {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: darkblue;
+}
+
+h3{
+    color: blue;
+}
+
+.education-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 20px;
+}
+
+.institution-image {
+    width: 100px;
+    height: 120px;
+    object-fit: cover;
+    border-radius: 8px;
+    margin-right: 20px;
+}
+
+.institution-details {
+    max-width: 600px;
+}
+
+.institution-details h3 {
+    margin: 0;
+    font-size: 1.5em;
+}
+
+.institution-details p {
+    margin: 5px 0;
+}
+
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+#resume {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    text-decoration-color: darkblue;
+}
+
+.resume-container {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.resume-thumbnail {
+    width: 150px;
+    height: auto;
+    object-fit: cover;
+    border-radius: 8px;
+}
+
+.resume-details {
+    max-width: 600px;
+}
+
+.resume-details h3 {
+    margin: 0;
+    font-size: 1.5em;
+}
+
+.resume-details p {
+    margin: 10px 0;
+}
+
+.download-button {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 1em;
+    color: #fff;
+    background-color: #007BFF;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+.download-button:hover {
+    background-color: #0056b3;
+}
+

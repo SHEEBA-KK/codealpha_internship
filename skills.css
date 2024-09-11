@@ -1,0 +1,36 @@
+.image img{width: 200px;height: 150px;margin-top: 20px;margin-left: 20px;}
+.list ul li{list-style: none;margin-top: 80px;color:blue;}
+.pic img{height: 800px;width: 80px;}
+.list ul{ display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.list ul a{text-decoration:none ;}
+.header{background-color:whitesmoke;width: 200px;height: 180px;}
+.header img{border-radius: 30px;}
+.name h1{margin-top: 70px;color:darkblue;font-size:30px;}
+.search input{margin-top: 80px;margin-left: 20px;}
+.con h3{color: darkblue;text-align: center;margin-top: 30px;margin-bottom: 40px;}
+
+.b h5{margin-bottom: 20px;text-align: center;color: darkblue;}
+.ab{background-color: lightgray;}
+.b img{height: 200px;width:100%;margin-bottom: 20px;}
+.b p{margin-left: 40px;margin-bottom: 30px;color: blue;}
+.b{margin-bottom: 100px;}
+.foot2 h5 a{text-decoration: none;color: blue;}
+.abu h3{color: darkblue;}
+.abu h4{color: darkblue;}
+.abu p{color: blue;}
+
+
+
+
+
+.footer{background-color:whitesmoke;color: darkblue;margin-top: 30px;height: 250px;width: 100px;}
+.footer h4 {margin-top: 100x;}
+.footer h5{color:blue;}
+.footer img{border-radius: 50px;margin-top: 50px;margin-left: 10px;width: 200px;}
+.icon img{width: 50px;height: 50px;margin-top: 20px;}
+.button button{background-color:blue;color: white;margin-top: 20px;border-radius: 50px;}
+.ser{background-color: rgb(231, 230, 230);height: 100px;width: 100px;}
+.foot2 h4{margin-top: 50px;}
